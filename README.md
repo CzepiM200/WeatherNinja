@@ -1,6 +1,15 @@
 # WeatherNinja
+
+A simple website showing the basic data collected from the weather api, regarding the weather in the selected city and presenting charts with the temperature and wind speed predicted for the next days. While writing the page, I used JavaScript, ReactJS, Axios, HTML and Bootstrap 4.
+
 ## GitHub Pages
-https://czepim200.github.io/WeatherNinja/
+[link to GitHub Pages](https://czepim200.github.io/WeatherNinja/)
+[code](https://github.com/CzepiM200/WeatherNinja/tree/raw)
+
+## Weather api
+[link to api](https://openweathermap.org/)
+
+
 
 ## Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
