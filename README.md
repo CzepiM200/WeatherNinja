@@ -4,6 +4,8 @@ A simple website showing the basic data collected from the weather api, regardin
 
 ## GitHub Pages
 [link to GitHub Pages](https://czepim200.github.io/WeatherNinja/)
+
+## Code
 [code](https://github.com/CzepiM200/WeatherNinja/tree/raw)
 
 ## Weather api
